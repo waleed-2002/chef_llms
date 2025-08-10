@@ -21,8 +21,8 @@ app.add_middleware(
 )
 
 # === External API endpoints ===
-RECIPE_API_URL = "https://pys7h0wkhesomy-8888.proxy.runpod.net/generate-recipe"
-IMAGE_API_URL = "https://pys7h0wkhesomy-8888.proxy.runpod.net/generate-image"
+RECIPE_API_URL = "https://vfwd79qhxdgu06-8888.proxy.runpod.net//generate-recipe"
+IMAGE_API_URL = "https://vfwd79qhxdgu06-8888.proxy.runpod.net//generate-image"
 
 # === Pydantic model ===
 class RecipeRequest(BaseModel):
